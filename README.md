@@ -28,3 +28,5 @@
 - Oromoimages.com
 - oromedia.net
 - oromoliberationfront.org
+- jw.org/om/
+- siitube.com
