@@ -1,4 +1,5 @@
-
+#About Oromo
+Arsi tomb and monuments - https://www.persee.fr/doc/ethio_0066-2127_2005_num_21_1_1098
 # Marsariiti Afaan Oromoo
 - bbcafaanoromoo.com
 - voaafaanoromoo.com
